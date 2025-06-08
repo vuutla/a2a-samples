@@ -6,7 +6,6 @@ from typing import List, Optional, Callable
 
 from google.adk import Agent
 
-
 import httpx
 
 from a2a.client import A2ACardResolver
